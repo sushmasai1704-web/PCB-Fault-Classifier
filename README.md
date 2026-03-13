@@ -5,7 +5,7 @@
 
 ![Sample Output](sample_output.png)
 
----
+--
 
 ## Problem It Solves
 
